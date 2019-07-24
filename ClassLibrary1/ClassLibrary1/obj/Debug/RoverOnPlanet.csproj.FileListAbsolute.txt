@@ -1,0 +1,11 @@
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Specificity.XUnit.dll
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\xunit.dll
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\xunit.xml
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\RoverOnPlanet.csprojAssemblyReference.cache
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\RoverOnPlanet.csproj.CoreCompileInputs.cache
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\RoverOnPlanet.csproj.CopyComplete
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\vkumar\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
